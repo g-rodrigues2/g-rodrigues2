@@ -10,7 +10,7 @@
 - ☢️ Medical Physicist at São Paulo State University (2021)
 - 📋 [Lattes](https://lattes.cnpq.br/6126683132640765)
 
-## 🚀 Languages
+## 🚀 Learning the following languages:
 
 - Python 🐍
 - R 📊
