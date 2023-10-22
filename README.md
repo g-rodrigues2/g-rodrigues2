@@ -6,7 +6,8 @@
 ## 📚 Academic Background
 
 - 🎓 PhD student in Biometrics at São Paulo State University (Currently)
-- 🎓 Medical Physicist at São Paulo State University (2021)
+- 🎓 MSc in Biometrics at São Paulo State University (2023)
+- ☢️ Medical Physicist at São Paulo State University (2021)
 - 📋 [Currículo Lattes](https://lattes.cnpq.br/6126683132640765)
 
 ## 🚀 Languages
