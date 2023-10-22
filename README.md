@@ -12,8 +12,8 @@
 
 ## 🚀 Languages
 
-1. Python 🐍
-2. R 📊
+- Python 🐍
+- R 📊
 
 
 ## 📬 Contact me
