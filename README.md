@@ -1,6 +1,6 @@
 # 👾 Welcome to my GitHub page 👾
 
-👨‍🎓 My name is Guilherme Rodrigues. I develop and calibrate biology-based models (ODEs) for tumor growth and treatment response, with emphasis on **Bayesian parameter estimation**, **model selection**, and **uncertainty quantification**.
+Currently, I develop and calibrate biology-based models (ODEs) for tumor growth and treatment response, with emphasis on **Bayesian parameter estimation**, **model selection**, and **uncertainty quantification**. I also work with data science and modeling applied to epidemiology.
 
 ## 📚 Academic Background
 
@@ -33,13 +33,15 @@ Bayesian trajectory + 95% uncertainty band (auto-generated):
 - Model selection & predictive validation
 - Sensitivity analysis & identifiability
 - Computational oncology (radiotherapy, immunotherapy, imaging-informed modeling)
+- Computational epidemiology
+- Biometry
 
 ---
 
 ## 🧰 Methods & toolbox
 - **Modeling:** ODE systems, treatment-effect terms, phenomenological + biology-based models  
-- **Inference:** MCMC (e.g., ensemble samplers), posterior predictive checks, uncertainty quantification  
-- **Python stack:** NumPy, SciPy, Matplotlib, (ArviZ / emcee when applicable)  
+- **Inference:** MCMC (e.g., ensemble samplers), posterior predictive checks, uncertainty quantification
+- **Python stack:** NumPy, SciPy, Matplotlib, ArviZ, emcee, SaLib  
 
 ---
 
@@ -47,6 +49,6 @@ Bayesian trajectory + 95% uncertainty band (auto-generated):
 - **Email:** g.rodrigues2@unesp.br
 - **Linkedin:** https://www.linkedin.com/in/guilherme-rodrigues-38166917b
 - **Lattes:** https://lattes.cnpq.br/6126683132640765
-- **ORCID:** https://orcid.org/0000-0001-7113-8937- 
+- **ORCID:** https://orcid.org/0000-0001-7113-8937 
 - **ResearchID:** https://researchid.co/grodrigues
 
