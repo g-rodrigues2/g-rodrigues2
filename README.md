@@ -22,7 +22,7 @@
 Bayesian trajectory + 95% uncertainty band (auto-generated):
 
 <p align="center">
-  <img src="assets/bayesian_trajectory_ci.gif" width="720" alt="Illustrative Bayesian trajectory with 95% uncertainty band">
+  <img src="bayesian_trajectory_ci.gif" width="720" alt="Illustrative Bayesian trajectory with 95% uncertainty band">
 </p>
 
 > *Note:* the animation is a **stylized illustrative graphic** meant to represent typical outputs from Bayesian calibration (posterior mean + credible interval).
